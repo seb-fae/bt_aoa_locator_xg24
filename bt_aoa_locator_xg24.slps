@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII"?>
+<model:MDescriptors xmlns:model="http://www.silabs.com/ss/Studio.ecore">
+  <descriptors name="bt_aoa_locator_xg24">
+    <properties key="projectCommon.sdkId" value="com.silabs.sdk.stack.simplicity_sdk:2026.6.1._15799796112374425997"/>
+    <properties key="universalConfig.relativeWorkspacePath" value="../bt_aoa_ncp_locator_MG24.slcw"/>
+    <properties key="universalConfig.generationDirectory" value=""/>
+    <properties key="universalConfig.toolchainCompatibility" value="iar llvm gcc"/>
+    <properties key="projectCommon.overwriteCopiedSources" value="false"/>
+    <properties key="projectCommon.boardIds" value="brd4186c:0.0.0.A01 brd4002a:0.0.0.A07"/>
+    <properties key="projectCommon.kitId" value=""/>
+    <properties key="projectCommon.partId" value="mcu.arm.efr32.mg24.efr32mg24b210f1536im48"/>
+    <properties key="projectCommon.toolchainId" value="com.silabs.ss.framework.project.core.noToolChain:0.0.0"/>
+    <properties key="universalConfig.projectTypeIds" value="visual-studio-code"/>
+    <properties key="projectCommon.importModeId" value="COPY"/>
+    <properties key="universalConfig.filteredToolchains" value="iar llvm gcc"/>
+    <properties key="universalConfig.ucProjectCacheState" value="-216481337"/>
+    <properties key="universalConfig.compSelProjInstanceId" value="1792415626631"/>
+  </descriptors>
+</model:MDescriptors>
